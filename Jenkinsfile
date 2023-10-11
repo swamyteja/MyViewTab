@@ -19,7 +19,7 @@ steps{
  
 
 echo 'deploy started'
-bat 'atlas-install-plugin --username sridurgaswamyteja --password Teja7c119 --server localhost --http-port 8082 --plugin-key com.atlassian.jira.jira-api --context-path ""'
+bat 'atlas-install-plugin --username sridurgaswamyteja --password Teja7c119 --server localhost --http-port 8082 --plugin-key com.atlassian.jira.jira-api --context-path "" '
 }
 
         }
