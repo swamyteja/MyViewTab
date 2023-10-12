@@ -7,6 +7,7 @@ agent any
 	     bat 'atlas-compile'
             }
         }
+
         stage('Packaging') {
 steps{
               echo 'Packaging the Plugin'
